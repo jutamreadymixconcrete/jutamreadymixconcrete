@@ -11,8 +11,8 @@
             <ul>
                 <li><a href="#home" class="active">Home</a></li>
                 <li><a href="#about">About</a></li>
-                {{-- <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li> --}}
+                <li><a href="#services">Services</a></li>
+                {{-- <li><a href="#portfolio">Portfolio</a></li> --}}
                 <li><a href="#projectkami">Project</a></li>
                 <li class="dropdown"><a href="#"><span>Operations</span> <i
                             class="bi bi-chevron-down toggle-dropdown"></i></a>

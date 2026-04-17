@@ -76,7 +76,7 @@
                     <li><a href="#home"><i class="bi bi-chevron-right"></i> Home</a></li>
                     <li><a href="#about"><i class="bi bi-chevron-right"></i> About us</a></li>
                     <li><a href="#services"><i class="bi bi-chevron-right"></i> Services</a></li>
-                    <li><a href="#projectkami"><i class="bi bi-chevron-right"></i> Terms of service</a></li>
+                    <li><a href="#projectkami"><i class="bi bi-chevron-right"></i> Project Kami</a></li>
                     <li><a href="#privacy"><i class="bi bi-chevron-right"></i> Privacy policy</a></li>
                 </ul>
             </div>
@@ -108,7 +108,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright 2026</span> <strong class="px-1 sitename">Jutam Readymix Concrete</strong>| <span>All
+        <p>© <span>Copyright 2026</span> <strong class="px-1 sitename">PT. Jutam Readymix Concrete</strong>| <span>All
                 Rights Reserved</span></p>
         {{-- <div class="credits">
         <!-- All the links in the footer should remain intact. -->

@@ -1944,6 +1944,16 @@ section,
         transform: translateY(0px) scale(1);
     }
 }
+
+.member-img {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.member-img img {
+    width: 100%;
+    transition: 0.3s;
+}
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/

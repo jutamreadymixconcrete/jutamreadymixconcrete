@@ -204,36 +204,33 @@
 
         </div>
 
-        {{-- <div class="container">
+        <div class="container">
 
-                <div class="row gy-3">
-
-
-                    <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/5 (4).jpeg" alt="" class="img-fluid img-rounded">
-                    </div>
+            <div class="row gy-3">
 
 
+                <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
+                    <img src="assets/img/gabungan_landscape_tanpa_garis.jpg" alt=""
+                        class="img-fluid img-rounded">
+                    {{-- <img src="assets/img/PT. JUTAM READYMIX CONCRETE PILING.jpg" alt=""
+                        class="img-fluid img-rounded"> --}}
                 </div>
 
-            </div> --}}
 
-        {{-- <div class="container-fluid p-0">
-                <div class="row gy-3">
-                    <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/5 (4).jpeg" alt="" class="img-fluid w-100">
-                    </div>
-                </div>
-            </div> --}}
+            </div>
 
-        <div class="banner">
-            <img src="assets/img/5 (4).jpeg" alt="">
+        </div>
+
+
+
+        {{-- <div class="banner">
+            <img src="assets/img/PT. JUTAM READYMIX CONCRETE PILING.jpg" alt="">
             <div class="banner-text">
                 <h1>PT. JUTAM READYMIX CONCRETE</h1>
                 <p>Penyedia beton terpercaya untuk proyek konstruksi Anda</p>
                 <a href="#" class="btn-banner">Get Started</a>
             </div>
-        </div>
+        </div> --}}
 
     </section><!-- /About Section -->
 
@@ -400,213 +397,93 @@
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Services</h2> --}}
             <h3 class="judul-visi">Services</h3>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+            <p class="text-center">Kami berkomitmen memberikan layanan readymix concrete berkualitas yang handal, tepat
+                waktu, dan sesuai
+                kebutuhan proyek Anda.</p>
         </div><!-- End Section Title -->
 
         <div class="container">
-
             <div class="row g-5">
 
+                <!-- Supply Readymix -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="service-item item-cyan position-relative">
-                        <i class="bi bi-activity icon"></i>
+                        <i class="bi bi-truck icon"></i>
                         <div>
-                            <h3>Nesciunt Mete</h3>
-                            <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus
-                                dolores iure perferendis tempore et consequatur.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Supply Readymix Concrete</h3>
+                            <p>Menyediakan beton ready mix berbagai mutu untuk kebutuhan proyek rumah, ruko, gedung, dan
+                                infrastruktur dengan kualitas terjamin.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div>
 
+                <!-- Concrete Pump -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="service-item item-orange position-relative">
-                        <i class="bi bi-broadcast icon"></i>
+                        <i class="bi bi-building-gear icon"></i>
                         <div>
-                            <h3>Eosle Commodi</h3>
-                            <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque
-                                eum hic non ut nesciunt dolorem.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Sewa Concrete Pump</h3>
+                            <p>Layanan pompa beton untuk mempermudah pengecoran di area sulit dijangkau, lebih cepat dan
+                                efisien.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div>
 
+                <!-- Konsultasi -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="service-item item-teal position-relative">
-                        <i class="bi bi-easel icon"></i>
+                        <i class="bi bi-clipboard-check icon"></i>
                         <div>
-                            <h3>Ledo Markt</h3>
-                            <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id
-                                voluptas adipisci eos earum corrupti.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Konsultasi Mutu Beton</h3>
+                            <p>Tim kami siap membantu menentukan mutu beton sesuai kebutuhan konstruksi Anda.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div>
 
+                <!-- Pengiriman -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
                     <div class="service-item item-red position-relative">
-                        <i class="bi bi-bounding-box-circles icon"></i>
+                        <i class="bi bi-clock-history icon"></i>
                         <div>
-                            <h3>Asperiores Commodi</h3>
-                            <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea
-                                fuga sit provident adipisci neque.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Pengiriman Tepat Waktu</h3>
+                            <p>Armada truck mixer siap kirim ke lokasi proyek dengan jadwal yang fleksibel dan tepat
+                                waktu.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div>
 
+                <!-- Proyek besar -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="500">
                     <div class="service-item item-indigo position-relative">
-                        <i class="bi bi-calendar4-week icon"></i>
+                        <i class="bi bi-building icon"></i>
                         <div>
-                            <h3>Velit Doloremque.</h3>
-                            <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut.
-                                Sed animi at autem alias eius labore.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Layanan Proyek Skala Besar</h3>
+                            <p>Melayani kebutuhan beton untuk proyek skala kecil hingga besar dengan kapasitas produksi
+                                tinggi.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div>
 
+                <!-- Harga -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="600">
                     <div class="service-item item-pink position-relative">
-                        <i class="bi bi-chat-square-text icon"></i>
+                        <i class="bi bi-tags icon"></i>
                         <div>
-                            <h3>Dolori Architecto</h3>
-                            <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure.
-                                Corrupti recusandae ducimus enim.</p>
-                            <a href="service-details.html" class="read-more stretched-link">Learn More <i
-                                    class="bi bi-arrow-right"></i></a>
+                            <h3>Harga Kompetitif</h3>
+                            <p>Menawarkan harga bersaing dengan kualitas beton terbaik dan pelayanan profesional.</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
-
+                </div>
 
             </div>
-
         </div>
 
     </section><!-- /Services Section -->
 
-    <!-- Testimonials Section -->
-    <section id="testimonials" class="testimonials section">
 
-        <!-- Section Title -->
-        <div class="container section-title" data-aos="fade-up">
-            <h2>Testimonials</h2>
-            <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-        </div><!-- End Section Title -->
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="swiper init-swiper" data-speed="600" data-delay="5000"
-                data-breakpoints="{ &quot;320&quot;: { &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 40 }, &quot;1200&quot;: { &quot;slidesPerView&quot;: 3, &quot;spaceBetween&quot;: 40 } }">
-                <script type="application/json" class="swiper-config">
-            {
-              "loop": true,
-              "speed": 600,
-              "autoplay": {
-                "delay": 5000
-              },
-              "slidesPerView": "auto",
-              "pagination": {
-                "el": ".swiper-pagination",
-                "type": "bullets",
-                "clickable": true
-              },
-              "breakpoints": {
-                "320": {
-                  "slidesPerView": 1,
-                  "spaceBetween": 40
-                },
-                "1200": {
-                  "slidesPerView": 3,
-                  "spaceBetween": 20
-                }
-              }
-            }
-          </script>
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item" "="">
-            <p>
-              <i class=" bi bi-quote quote-icon-left"></i>
-                <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
-                <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.</span>
-                  <i class="bi bi-quote quote-icon-right"></i>
-                </p>
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-
-      </section><!-- /Testimonials Section -->
-
-      <!-- Portfolio Section -->
-      {{-- <section id="portfolio" class="portfolio section">
+    <!-- Portfolio Section -->
+    {{-- <section id="portfolio" class="portfolio section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
@@ -756,16 +633,20 @@
 
       </section><!-- /Portfolio Section --> --}}
 
-      <!-- Team Section -->
-      <section id="projectkami" class="team section">
+    <!-- Team Section -->
+    <section id="projectkami" class="team section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        {{-- <h2>Project Kami</h2> --}}
-        <h3 class="judul-visi">Project Kami</h3>
-        
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            {{-- <h2>Project Kami</h2> --}}
+            <h3 class="judul-visi">Project Kami</h3>
+            <p class="text-center" style="color: black;">
+                Dokumentasi proyek sebagai bukti pengalaman dan dedikasi kami di bidang konstruksi.
+            </p>
+            {{-- <p class="text-center">Dokumentasi proyek sebagai bukti pengalaman dan dedikasi kami di bidang konstruksi.
+            </p> --}}
+        </div><!-- End Section Title -->
+
 
         <div class="container">
 
@@ -773,84 +654,94 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
-                    <img src="assets/img/project-kami/HOLIDAY-MELIA PANORAMA.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>MELIA PANORAMA</h4>
-                        <a href="assets/img/project-kami/HOLIDAY-MELIA PANORAMA.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
+                        <img src="assets/img/project-kami/HOLIDAY-MELIA PANORAMA.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>MELIA PANORAMA</h4>
+                                <a href="assets/img/project-kami/HOLIDAY-MELIA PANORAMA.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/bca.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>BCA JODOH</h4>
-                        <a href="assets/img/project-kami/bca.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/bca.png" class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BCA JODOH</h4>
+                                <a href="assets/img/project-kami/bca.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>BNI KAMPUNG UTAMA</h4>
-                        <a href="assets/img/project-kami/BNI Kampung Utama.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BNI KAMPUNG UTAMA</h4>
+                                <a href="assets/img/project-kami/BNI Kampung Utama.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/ARHOTEL.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>ARHOTEL</h4>
-                        <a href="assets/img/project-kami/ARHOTEL.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/ARHOTEL.png" class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>ARHOTEL</h4>
+                                <a href="assets/img/project-kami/ARHOTEL.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -860,256 +751,194 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/komplek plaza batu aji.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>KOMPLEK SP PLAZA BATU AJI</h4>
-                        <a href="assets/img/project-kami/komplek plaza batu aji.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/komplek plaza batu aji.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>KOMPLEK SP PLAZA BATU AJI</h4>
+                                <a href="assets/img/project-kami/komplek plaza batu aji.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/tiban petra mandiri.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>KOMPLEK TIBAN PETRA MANDIRI</h4>
-                        <a href="assets/img/project-kami/tiban petra mandiri.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/tiban petra mandiri.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>KOMPLEK TIBAN PETRA MANDIRI</h4>
+                                <a href="assets/img/project-kami/tiban petra mandiri.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/volex indonesia.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PT. VOLEX SEKUPANG</h4>
-                        <a href="assets/img/project-kami/volex indonesia.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/volex indonesia.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PT. VOLEX SEKUPANG</h4>
+                                <a href="assets/img/project-kami/volex indonesia.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/palladium residence.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PALLADIUM RESIDENCE</h4>
-                        <a href="assets/img/project-kami/palladium residence.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/palladium residence.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PALLADIUM RESIDENCE</h4>
+                                <a href="assets/img/project-kami/palladium residence.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
-         
+
         <div class="container ">
 
             <div class="row gy-4">
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/dermaga kim shea.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>DERMAGA PT. KIM SEAH SHIPYARD</h4>
-                        <a href="assets/img/project-kami/dermaga kim shea.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/dermaga kim shea.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>DERMAGA PT. KIM SEAH SHIPYARD</h4>
+                                <a href="assets/img/project-kami/dermaga kim shea.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/apt opus bay.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>APARTEMENT BALMORA OPUS BAY MARINA CITY BY PT CSCEC</h4>
-                        <a href="assets/img/project-kami/apt opus bay.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/apt opus bay.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>APARTEMENT BALMORA OPUS BAY MARINA CITY BY PT CSCEC</h4>
+                                <a href="assets/img/project-kami/apt opus bay.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/universitas universal.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>UNIVERSITAS UNIVERSAL</h4>
-                        <a href="assets/img/project-kami/universitas universal.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/universitas universal.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>UNIVERSITAS UNIVERSAL</h4>
+                                <a href="assets/img/project-kami/universitas universal.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/sekolah maitreyawira.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>SEKOLAH MAITREYAWIRA</h4>
-                        <a href="assets/img/project-kami/sekolah maitreyawira.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/sekolah maitreyawira.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>SEKOLAH MAITREYAWIRA</h4>
+                                <a href="assets/img/project-kami/sekolah maitreyawira.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
 
-        </div>
-
-    <div class="container ">
-
-            <div class="row gy-4">
-
-                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member">
-                    <img src="assets/img/project-kami/rs awal bros batu aji.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>RS AWAL BROS BATU AJI</h4>
-                        <a href="assets/img/project-kami/rs awal bros batu aji.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div> --}}
-                    </div>
-                    </div>
-                </div><!-- End Team Member -->
-
-                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
-                    <div class="member">
-                    <img src="assets/img/project-kami/rs awal bros simpang jam.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>RS AWAL BROS SIMPANG JAM</h4>
-                        <a href="assets/img/project-kami/rs awal bros simpang jam.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div> --}}
-                    </div>
-                    </div>
-                </div><!-- End Team Member -->
-
-                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="member">
-                    <img src="assets/img/project-kami/gedung bkbn sekupang.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>GEDUNG BKBN SEKUPANG</h4>
-                        <a href="assets/img/project-kami/gedung bkbn sekupang.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div> --}}
-                    </div>
-                    </div>
-                </div><!-- End Team Member -->
-
-                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
-                    <div class="member">
-                    <img src="assets/img/project-kami/pltmg sagulung.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG SAGULUNG</h4>
-                        <a href="assets/img/project-kami/pltmg sagulung.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div> --}}
-                    </div>
-                    </div>
-                </div><!-- End Team Member -->
-
-            </div>
-
-        
 
         </div>
 
@@ -1119,83 +948,95 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg sekupang.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG SEKUPANG</h4>
-                        <a href="assets/img/project-kami/pltmg sekupang.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/rs awal bros batu aji.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>RS AWAL BROS BATU AJI</h4>
+                                <a href="assets/img/project-kami/rs awal bros batu aji.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg baloi.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG BALOI</h4>
-                        <a href="assets/img/project-kami/pltmg baloi.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/rs awal bros simpang jam.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>RS AWAL BROS SIMPANG JAM</h4>
+                                <a href="assets/img/project-kami/rs awal bros simpang jam.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg kabil.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG KABIL</h4>
-                        <a href="assets/img/project-kami/pltmg kabil.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/gedung bkbn sekupang.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>GEDUNG BKBN SEKUPANG</h4>
+                                <a href="assets/img/project-kami/gedung bkbn sekupang.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg panaran tembesi.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG TEMBESI</h4>
-                        <a href="assets/img/project-kami/pltmg panaran tembesi.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltmg sagulung.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG SAGULUNG</h4>
+                                <a href="assets/img/project-kami/pltmg sagulung.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -1205,83 +1046,95 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltgu tanjung uncang.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTGU TANJUNG UNCANG</h4>
-                        <a href="assets/img/project-kami/pltgu tanjung uncang.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltmg sekupang.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG SEKUPANG</h4>
+                                <a href="assets/img/project-kami/pltmg sekupang.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/gedung-bpkp-kepri.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>GEDUNG BPKP KEPULAUAN RIAU</h4>
-                        <a href="assets/img/project-kami/gedung-bpkp-kepri.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltmg baloi.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG BALOI</h4>
+                                <a href="assets/img/project-kami/pltmg baloi.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/WORKSHOP SAMARA KABIL.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>WORKSHOP SAMARA KABIL</h4>
-                        <a href="assets/img/project-kami/WORKSHOP SAMARA KABIL.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltmg kabil.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG KABIL</h4>
+                                <a href="assets/img/project-kami/pltmg kabil.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/one avenue.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>ONE AVENUE</h4>
-                        <a href="assets/img/project-kami/one avenue.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltmg panaran tembesi.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG TEMBESI</h4>
+                                <a href="assets/img/project-kami/pltmg panaran tembesi.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -1291,83 +1144,94 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/plazo-garden.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PALAZZO GARDEN</h4>
-                        <a href="assets/img/project-kami/plazo-garden.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pltgu tanjung uncang.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTGU TANJUNG UNCANG</h4>
+                                <a href="assets/img/project-kami/pltgu tanjung uncang.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/gedung sumatra batam center.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>GEDUNG SUMATRA BATAM CENTER</h4>
-                        <a href="assets/img/project-kami/gedung sumatra batam center.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/gedung-bpkp-kepri.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>GEDUNG BPKP KEPULAUAN RIAU</h4>
+                                <a href="assets/img/project-kami/gedung-bpkp-kepri.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/rumah di sukajadi.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>RUMAH DI SUKAJADI</h4>
-                        <a href="assets/img/project-kami/rumah di sukajadi.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/WORKSHOP SAMARA KABIL.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>WORKSHOP SAMARA KABIL</h4>
+                                <a href="assets/img/project-kami/WORKSHOP SAMARA KABIL.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/pondasi mesin pama.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PONDASI MESIN PAMA DI CATERPILLAR</h4>
-                        <a href="assets/img/project-kami/pondasi mesin pama.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/one avenue.png" class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>ONE AVENUE</h4>
+                                <a href="assets/img/project-kami/one avenue.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -1377,100 +1241,210 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/project-kami/apt arya.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>APARTEMENT ARYA SEBELAH UIB</h4>
-                        <a href="assets/img/project-kami/apt arya.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/plazo-garden.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PALAZZO GARDEN</h4>
+                                <a href="assets/img/project-kami/plazo-garden.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/project-kami/rektorat uib.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>REKTORAT UIB</h4>
-                        <a href="assets/img/project-kami/rektorat uib.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/gedung sumatra batam center.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>GEDUNG SUMATRA BATAM CENTER</h4>
+                                <a href="assets/img/project-kami/gedung sumatra batam center.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg kabil.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG KABIL</h4>
-                        <a href="assets/img/project-kami/pltmg kabil.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/rumah di sukajadi.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>RUMAH DI SUKAJADI</h4>
+                                <a href="assets/img/project-kami/rumah di sukajadi.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/pltmg panaran tembesi.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PLTMG TEMBESI</h4>
-                        <a href="assets/img/project-kami/pltmg panaran tembesi.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/pondasi mesin pama.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PONDASI MESIN PAMA DI CATERPILLAR</h4>
+                                <a href="assets/img/project-kami/pondasi mesin pama.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
-      </section><!-- /Team Section -->
+        <div class="container ">
+
+            <div class="row gy-4">
+
+                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member">
+                        <img src="assets/img/project-kami/apt arya.png" class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>APARTEMENT ARYA SEBELAH UIB</h4>
+                                <a href="assets/img/project-kami/apt arya.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div> --}}
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
+                    <div class="member">
+                        <img src="assets/img/project-kami/rektorat uib.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>REKTORAT UIB</h4>
+                                <a href="assets/img/project-kami/rektorat uib.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div> --}}
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="member">
+                        <img src="assets/img/project-kami/pltmg kabil.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG KABIL</h4>
+                                <a href="assets/img/project-kami/pltmg kabil.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div> --}}
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
+                    <div class="member">
+                        <img src="assets/img/project-kami/pltmg panaran tembesi.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PLTMG TEMBESI</h4>
+                                <a href="assets/img/project-kami/pltmg panaran tembesi.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div> --}}
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+            </div>
 
 
-      {{-- //peralatan pengaduk// --}}
 
-      <!-- Team Section -->
-      <section id="peralatanpengaduk" class="team section">
+        </div>
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        {{-- <h2>Peralatan Pengaduk</h2> --}}
-        <h3 class="judul-visi">Peralatan Pengaduk</h3>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+    </section><!-- /Team Section -->
+
+
+    {{-- //peralatan pengaduk// --}}
+
+    <!-- Team Section -->
+    <section id="peralatanpengaduk" class="team section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            {{-- <h2>Peralatan Pengaduk</h2> --}}
+            <h3 class="judul-visi">Peralatan Pengaduk</h3>
+            <p class="text-center" style="color: black;">"Peralatan pengaduk kami memastikan campuran beton merata,
+                kuat, dan siap menunjang keberhasilan konstruksi Anda."</p>
+        </div><!-- End Section Title -->
 
         <div class="container">
 
@@ -1478,84 +1452,96 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
-                    <img src="assets/img/peralatan-pengaduk/wheel-loader.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>WHEEL LOADER</h4>
-                        <a href="assets/img/peralatan-pengaduk/wheel-loader.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
+                        <img src="assets/img/peralatan-pengaduk/wheel-loader.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>WHEEL LOADER</h4>
+                                <a href="assets/img/peralatan-pengaduk/wheel-loader.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/batching-plant-sekupang.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>BATCHING PLANT SEKUPANG</h4>
-                        <a href="assets/img/peralatan-pengaduk/batching-plant-sekupang.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/batching-plant-sekupang.png"
+                            class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BATCHING PLANT SEKUPANG</h4>
+                                <a href="assets/img/peralatan-pengaduk/batching-plant-sekupang.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/batching-plant-sekupang2.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>BATCHING PLANT SEKUPANG</h4>
-                        <a href="assets/img/peralatan-pengaduk/batching-plant-sekupang2.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/batching-plant-sekupang2.png"
+                            class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BATCHING PLANT SEKUPANG</h4>
+                                <a href="assets/img/peralatan-pengaduk/batching-plant-sekupang2.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/batching-plant-pasirputih.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>BATCHING PLANT PASIR PUTIH</h4>
-                        <a href="assets/img/peralatan-pengaduk/batching-plant-pasirputih.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/batching-plant-pasirputih.png"
+                            class="img-fluid rounded-3" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BATCHING PLANT PASIR PUTIH</h4>
+                                <a href="assets/img/peralatan-pengaduk/batching-plant-pasirputih.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -1565,104 +1551,118 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/concrete-pump.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>CONCRETE PUMP</h4>
-                        <a href="assets/img/peralatan-pengaduk/concrete-pump.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/concrete-pump.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>CONCRETE PUMP</h4>
+                                <a href="assets/img/peralatan-pengaduk/concrete-pump.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/truck mixer.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>TRUCK MIXER</h4>
-                        <a href="assets/img/peralatan-pengaduk/truck mixer.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/truck mixer.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>TRUCK MIXER</h4>
+                                <a href="assets/img/peralatan-pengaduk/truck mixer.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/peralatan-pengaduk/weighting-bridge.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>WEIGHTING BRIDGE</h4>
-                        <a href="assets/img/peralatan-pengaduk/weighting-bridge.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-pengaduk/weighting-bridge.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>WEIGHTING BRIDGE</h4>
+                                <a href="assets/img/peralatan-pengaduk/weighting-bridge.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/project-kami/palladium residence.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PALLADIUM RESIDENCE</h4>
-                        <a href="assets/img/project-kami/palladium residence.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/project-kami/palladium residence.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PALLADIUM RESIDENCE</h4>
+                                <a href="assets/img/project-kami/palladium residence.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
-         
-       
 
-      </section><!-- /Team Section -->
 
-      {{-- //end peralatan pengaduk// --}}
 
-        {{-- //peralatan lab// --}}
+    </section><!-- /Team Section -->
 
-      <!-- Team Section -->
-      <section id="peralatanlab" class="team section">
+    {{-- //end peralatan pengaduk// --}}
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        {{-- <h2>Peralatan Laboratorium</h2> --}}
-        <h3 class="judul-visi">Peralatan Laboratorium</h3>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+    {{-- //peralatan lab// --}}
+
+    <!-- Team Section -->
+    <section id="peralatanlab" class="team section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            {{-- <h2>Peralatan Laboratorium</h2> --}}
+            <h3 class="judul-visi">Peralatan Laboratorium</h3>
+            <p class="text-center" style="color: black;">"Laboratorium kami dilengkapi alat uji mutu beton guna
+                memastikan setiap produksi memenuhi standar
+                konstruksi dan menjaga kekuatan dan ketahanan beton."</p>
+        </div><!-- End Section Title -->
 
         <div class="container">
 
@@ -1670,84 +1670,96 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
-                    <img src="assets/img/peralatan-lab/drying-oven.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>DRYING OVEN</h4>
-                        <a href="assets/img/peralatan-lab/drying-oven.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        {{-- <img src="assets/img/project-kami/BNI Kampung Utama.png" class="img-fluid rounded-2" alt="">     --}}
+                        <img src="assets/img/peralatan-lab/drying-oven.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>DRYING OVEN</h4>
+                                <a href="assets/img/peralatan-lab/drying-oven.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/measuring-tube.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>MEASURING TUBE</h4>
-                        <a href="assets/img/peralatan-lab/measuring-tube.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/measuring-tube.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>MEASURING TUBE</h4>
+                                <a href="assets/img/peralatan-lab/measuring-tube.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/strength-test-machine.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>STRENGTH TEST MACHINE</h4>
-                        <a href="assets/img/peralatan-lab/strength-test-machine.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/strength-test-machine.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>STRENGTH TEST MACHINE</h4>
+                                <a href="assets/img/peralatan-lab/strength-test-machine.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/strength-test-machine2.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>STRENGTH TEST MACHINE</h4>
-                        <a href="assets/img/peralatan-lab/strength-test-machine2.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/strength-test-machine2.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>STRENGTH TEST MACHINE</h4>
+                                <a href="assets/img/peralatan-lab/strength-test-machine2.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
             </div>
 
-        
+
 
         </div>
 
@@ -1757,418 +1769,432 @@
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/digital-weighting.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>DIGITAL WEIGHTING</h4>
-                        <a href="assets/img/peralatan-lab/digital-weighting.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Chief Executive Officer</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/digital-weighting.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>DIGITAL WEIGHTING</h4>
+                                <a href="assets/img/peralatan-lab/digital-weighting.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Chief Executive Officer</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/digital-weighting2.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>DIGITAL WEIGHTING</h4>
-                        <a href="assets/img/peralatan-lab/digital-weighting2.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Product Manager</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/digital-weighting2.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>DIGITAL WEIGHTING</h4>
+                                <a href="assets/img/peralatan-lab/digital-weighting2.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Product Manager</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/Speedy Tester.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>SPEEDY TESTER</h4>
-                        <a href="assets/img/peralatan-lab/Speedy Tester.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>CTO</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/Speedy Tester.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>SPEEDY TESTER</h4>
+                                <a href="assets/img/peralatan-lab/Speedy Tester.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>CTO</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
 
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                    <img src="assets/img/peralatan-lab/shakerand-analysis.png" class="img-fluid rounded-3" alt="">
-                    <div class="member-info">
-                        <div class="member-info-content">
-                        <h4>PALLADIUM RESIDENCE</h4>
-                        <a href="assets/img/peralatan-lab/shakerand-analysis.png" data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                        {{-- <span>Accountant</span> --}}
-                        </div>
-                        {{-- <div class="social">
+                        <img src="assets/img/peralatan-lab/shakerand-analysis.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>PALLADIUM RESIDENCE</h4>
+                                <a href="assets/img/peralatan-lab/shakerand-analysis.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
                         <a href=""><i class="bi bi-twitter-x"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
                         <a href=""><i class="bi bi-linkedin"></i></a>
                         </div> --}}
-                    </div>
+                        </div>
                     </div>
                 </div><!-- End Team Member -->
-                
+
 
             </div>
 
-        
+
 
         </div>
 
-         
-       
-
-      </section><!-- /Team Section -->
-
-      {{-- //end peralatan lab// --}}
 
 
-              {{-- //produk// --}}
 
-      <!-- Team Section -->
-      <section id="produk" class="team section">
+    </section><!-- /Team Section -->
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        {{-- <h2>Peralatan Laboratorium</h2> --}}
-        <h3 class="judul-visi">Produk</h3>
-        <p class="text-center">Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-    
+    {{-- //end peralatan lab// --}}
+
+
+    {{-- //produk// --}}
+
+    <!-- Team Section -->
+    <section id="produk" class="team section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            {{-- <h2>Peralatan Laboratorium</h2> --}}
+            <h3 class="judul-visi">Produk</h3>
+            <p class="text-center" style="color: black;">"Beragam pilihan produk readymix concrete dengan kualitas
+                terbaik untuk berbagai jenis proyek."
+            </p>
+        </div><!-- End Section Title -->
+
 
         <div class="container mt-4">
-  <h4 class="text-center mb-3">Produk</h4>
-<div class="table-responsive">
-  {{-- <table class="table table-bordered table-striped"> --}}
-    <table class="table table-bordered table-striped table-sm">
-    <thead class="table-dark text-center">
-      <tr>
-        <th>No</th>
-        <th>TYPE OF STRENGTH</th>
-        <th>NORMAL / MIX</th>
-        <th>BORE PILE</th>
-        <th>WATER PROOFING</th>
-        <th>EARLY STRENGTH</th>
-        <th>SCC</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="text-center">1</td>
-        <td>K100</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">2</td>
-        <td>K125</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">3</td>
-        <td>K150</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">4</td>
-        <td>K175</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">5</td>
-        <td>K200</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">6</td>
-        <td>K225</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">7</td>
-        <td>K250</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">8</td>
-        <td>K275</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">9</td>
-        <td>K300</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">10</td>
-        <td>K325</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">11</td>
-        <td>K350</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">12</td>
-        <td>K400</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">13</td>
-        <td>K450</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">14</td>
-        <td>K500</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">15</td>
-        <td>FC10</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">16</td>
-        <td>FC12</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">17</td>
-        <td>FC14</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">18</td>
-        <td>FC15</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">19</td>
-        <td>FC16.3</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">20</td>
-        <td>FC18.75</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">21</td>
-        <td>FC20.75</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">22</td>
-        <td>FC20</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">23</td>
-        <td>FC21</td>
-        <td class="text-center">√</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">24</td>
-        <td>FC25</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">25</td>
-        <td>FC28</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td class="text-center">26</td>
-        <td>FC30</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">27</td>
-        <td>FC32</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">28</td>
-        <td>FC33.2</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">29</td>
-        <td>FC35</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">30</td>
-        <td>FC40</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">31</td>
-        <td>FC45</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-      <tr>
-        <td class="text-center">32</td>
-        <td>FC50</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-        <td class="text-center">√</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-</div>
-{{-- 
+            {{-- <h4 class="text-center mb-3">Produk</h4> --}}
+            <div class="table-responsive">
+                {{-- <table class="table table-bordered table-striped"> --}}
+                <table class="table table-bordered table-striped table-sm">
+                    <thead class="table-dark text-center">
+                        <tr>
+                            <th>No</th>
+                            <th>TYPE OF STRENGTH</th>
+                            <th>NORMAL / MIX</th>
+                            <th>BORE PILE</th>
+                            <th>WATER PROOFING</th>
+                            <th>EARLY STRENGTH</th>
+                            <th>SCC</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="text-center">1</td>
+                            <td>K100</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">2</td>
+                            <td>K125</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">3</td>
+                            <td>K150</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">4</td>
+                            <td>K175</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">5</td>
+                            <td>K200</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">6</td>
+                            <td>K225</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">7</td>
+                            <td>K250</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">8</td>
+                            <td>K275</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">9</td>
+                            <td>K300</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">10</td>
+                            <td>K325</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">11</td>
+                            <td>K350</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">12</td>
+                            <td>K400</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">13</td>
+                            <td>K450</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">14</td>
+                            <td>K500</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">15</td>
+                            <td>FC10</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">16</td>
+                            <td>FC12</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">17</td>
+                            <td>FC14</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">18</td>
+                            <td>FC15</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">19</td>
+                            <td>FC16.3</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">20</td>
+                            <td>FC18.75</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">21</td>
+                            <td>FC20.75</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">22</td>
+                            <td>FC20</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">23</td>
+                            <td>FC21</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">24</td>
+                            <td>FC25</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">25</td>
+                            <td>FC28</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">26</td>
+                            <td>FC30</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">27</td>
+                            <td>FC32</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">28</td>
+                            <td>FC33.2</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">29</td>
+                            <td>FC35</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">30</td>
+                            <td>FC40</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">31</td>
+                            <td>FC45</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">32</td>
+                            <td>FC50</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                            <td class="text-center">√</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        {{-- 
          <div class="container mt-4">
   <h4 class="text-center mb-3">Data Karyawan</h4>
 
@@ -2203,99 +2229,99 @@
 </div> --}}
 
 
-<div class="container mt-4">
-  {{-- <h4 class="text-center mb-3">Data Karyawan</h4> --}}
+        <div class="container mt-4">
+            {{-- <h4 class="text-center mb-3">Data Karyawan</h4> --}}
 
-  <div class="row">
+            <div class="row">
 
-    <!-- Kolom Kiri -->
-    <div class="col-md-6">
-      <div class="table-responsive">
-        <table class="table table-bordered table-striped table-sm">
-          <thead class="table-dark text-center">
-            <tr>
-              <th>No</th>
-              <th>PRODUCT RANGE FOR SPECIAL CONCRETE</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td class="text-center">1</td>
-              <td>SELF COMPACTED CONCRETE (SCC)</td>
-            </tr>
-            <tr>
-              <td class="text-center">2</td>
-              <td>EARLY STRENGTH CONCRETE (ES)</td>
-            </tr>
-            <tr>
-              <td class="text-center">3</td>
-              <td>WATER PROOFING (WP)/INTEGRAL CONCRETE</td>
-            </tr>
-            <tr>
-              <td class="text-center">4</td>
-              <td>SILICAFUME CONCRETE (SF)</td>
-            </tr>
-            <tr>
-              <td class="text-center">5</td>
-              <td>BOREPILE CONCRETE (BP)</td>
-            </tr>
-            <tr>
-              <td class="text-center">6</td>
-              <td>ANTI RADIATION CONCRETE (ARC)</td>
-            </tr>
-            <tr>
-              <td class="text-center">7</td>
-              <td>HIGH RANGE SLUMP CONCRETE</td>
-            </tr>
-            <tr>
-              <td class="text-center">8</td>
-              <td>HIGH DENSITY CONCRETE</td>
-            </tr>
-            <tr>
-              <td class="text-center">9</td>
-              <td>LIGHT DENSITY CONCRETE</td>
-            </tr>
-            <tr>
-              <td class="text-center">10</td>
-              <td>HIGH TEMPERATURE CONCRETE</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
+                <!-- Kolom Kiri -->
+                <div class="col-md-6">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped table-sm">
+                            <thead class="table-dark text-center">
+                                <tr>
+                                    <th>No</th>
+                                    <th>PRODUCT RANGE FOR SPECIAL CONCRETE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="text-center">1</td>
+                                    <td>SELF COMPACTED CONCRETE (SCC)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">2</td>
+                                    <td>EARLY STRENGTH CONCRETE (ES)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">3</td>
+                                    <td>WATER PROOFING (WP)/INTEGRAL CONCRETE</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">4</td>
+                                    <td>SILICAFUME CONCRETE (SF)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">5</td>
+                                    <td>BOREPILE CONCRETE (BP)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">6</td>
+                                    <td>ANTI RADIATION CONCRETE (ARC)</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">7</td>
+                                    <td>HIGH RANGE SLUMP CONCRETE</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">8</td>
+                                    <td>HIGH DENSITY CONCRETE</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">9</td>
+                                    <td>LIGHT DENSITY CONCRETE</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">10</td>
+                                    <td>HIGH TEMPERATURE CONCRETE</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
 
-    <!-- Kolom Kanan -->
-    <div class="col-md-6">
-      <div class="table-responsive">
-        <table class="table table-bordered table-striped table-sm">
-          <thead class="table-dark text-center">
-            <tr>
-              <th>No</th>
-              <th>MORTAL</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td class="text-center">1</td>
-              <td>MORTAL 1 : 3</td>
-            </tr>
-            <tr>
-              <td class="text-center">2</td>
-              <td>MORTAL 1 : 4</td>
-            </tr>
-            <tr>
-              <td class="text-center">3</td>
-              <td>MORTAL 1 : 5</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
+                <!-- Kolom Kanan -->
+                <div class="col-md-6">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-striped table-sm">
+                            <thead class="table-dark text-center">
+                                <tr>
+                                    <th>No</th>
+                                    <th>MORTAL</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="text-center">1</td>
+                                    <td>MORTAL 1 : 3</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">2</td>
+                                    <td>MORTAL 1 : 4</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-center">3</td>
+                                    <td>MORTAL 1 : 5</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
 
-  </div>
-</div>
+            </div>
+        </div>
 
-{{-- <div class="container mt-4">
+        {{-- <div class="container mt-4">
   <div class="row">
 
     <!-- Kolom 1 -->
@@ -2329,30 +2355,30 @@
 
   </div>
 </div> --}}
-       
 
-      </section><!-- /Team Section -->
 
-      {{-- //end peralatan lab// --}}
+    </section><!-- /Team Section -->
 
-      <!-- Faq Section -->
-      <section id="faq" class="faq section">
+    {{-- //end peralatan lab// --}}
 
-      <!-- Section Title -->
-      {{-- <div class="container section-title" data-aos="fade-up">
+    <!-- Faq Section -->
+    <section id="faq" class="faq section">
+
+        <!-- Section Title -->
+        {{-- <div class="container section-title" data-aos="fade-up">
         <h2>Frequently Asked Questions</h2>
         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
       </div><!-- End Section Title --> --}}
 
-      <section id="faq" class="faq section">
-        <div class="container">
+        <section id="faq" class="faq section">
+            <div class="container">
 
-    <div class="section-title text-center mb-4">
-      <h3>FAQ Readymix Concrete</h3>
-      <p class="text-center">Pertanyaan yang sering diajukan</p>
-    </div>
+                <div class="section-title text-center mb-4">
+                    <h3>FAQ Readymix Concrete</h3>
+                    <p class="text-center">Pertanyaan yang sering diajukan</p>
+                </div>
 
-    {{-- <div class="accordion" id="faqAccordion">
+                {{-- <div class="accordion" id="faqAccordion">
 
       <!-- 1 -->
       <div class="accordion-item">
@@ -2440,497 +2466,618 @@
 
     </div> --}}
 
-  </div>
-</section>
+            </div>
+        </section>
 
-      <div class="container">
+        <div class="container">
 
-        <div class="row justify-content-center">
+            <div class="row justify-content-center">
 
-          <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
 
-            <div class="faq-container">
+                    <div class="faq-container">
 
-              <div class="faq-item faq-active">
-                <h3>Apa itu Readymix Concrete?</h3>
-                <div class="faq-content">
-                  <p>Readymix concrete adalah beton siap pakai yang diproduksi di batching plant dan dikirim ke lokasi proyek menggunakan truck mixer.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item faq-active">
+                            <h3>Apa itu Readymix Concrete?</h3>
+                            <div class="faq-content">
+                                <p>Readymix concrete adalah beton siap pakai yang diproduksi di batching plant dan
+                                    dikirim ke lokasi proyek menggunakan truck mixer.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
 
-              <div class="faq-item">
-                <h3>Apa keunggulan menggunakan Readymix?</h3>
-                <div class="faq-content">
-                  <p>Kualitas lebih terjamin, lebih cepat, hemat tenaga kerja, campuran konsisten, dan lebih efisien.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item">
+                            <h3>Apa keunggulan menggunakan Readymix?</h3>
+                            <div class="faq-content">
+                                <p>Kualitas lebih terjamin, lebih cepat, hemat tenaga kerja, campuran konsisten, dan
+                                    lebih efisien.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
 
-              <div class="faq-item">
-                <h3>Berapa minimal pemesanan Readymix?</h3>
-                <div class="faq-content">
-                  <p>Minimal pemesanan biasanya 3 m³ sampai 5 m³ tergantung supplier. Kapasitas truck mixer sekitar 7 m³.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item">
+                            <h3>Berapa minimal pemesanan Readymix?</h3>
+                            <div class="faq-content">
+                                <p>Minimal pemesanan biasanya 3 m³ sampai 5 m³ tergantung supplier. Kapasitas truck
+                                    mixer sekitar 7 m³.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
 
-              <div class="faq-item">
-                <h3>Apa saja mutu beton yang tersedia?</h3>
-                <div class="faq-content">
-                  <p>Mutu beton yang tersedia antara lain K225, K250, K300, K350 hingga K500 sesuai kebutuhan proyek.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item">
+                            <h3>Apa saja mutu beton yang tersedia?</h3>
+                            <div class="faq-content">
+                                <p>Mutu beton yang tersedia antara lain K225, K250, K300, K350 hingga K500 sesuai
+                                    kebutuhan proyek.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
 
-              <div class="faq-item">
-                <h3>Apa yang harus disiapkan sebelum beton datang?</h3>
-                <div class="faq-content">
-                  <p>Pastikan akses jalan cukup, bekisting siap, tulangan terpasang, dan tenaga kerja tersedia.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item">
+                            <h3>Apa yang harus disiapkan sebelum beton datang?</h3>
+                            <div class="faq-content">
+                                <p>Pastikan akses jalan cukup, bekisting siap, tulangan terpasang, dan tenaga kerja
+                                    tersedia.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
 
-              <div class="faq-item">
-                <h3>Berapa lama beton mengeras?</h3>
-                <div class="faq-content">
-                  <p>Setting awal 2-4 jam, bisa diinjak 12-24 jam, dan kuat maksimal setelah 28 hari.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
+                        <div class="faq-item">
+                            <h3>Berapa lama beton mengeras?</h3>
+                            <div class="faq-content">
+                                <p>Setting awal 2-4 jam, bisa diinjak 12-24 jam, dan kuat maksimal setelah 28 hari.</p>
+                            </div>
+                            <i class="faq-toggle bi bi-chevron-right"></i>
+                        </div><!-- End Faq item-->
+
+                    </div>
+
+                </div><!-- End Faq Column-->
 
             </div>
 
-          </div><!-- End Faq Column-->
-
         </div>
 
-      </div>
+    </section><!-- /Faq Section -->
 
-      </section><!-- /Faq Section -->
+    {{-- testing --}}
+    <!-- Team Section -->
+    <section id="team" class="team section">
 
-      {{-- testing --}}
-            <!-- Team Section -->
-        <section id="team" class="team section">
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <span class="subtitle">Proyek</span>
+            {{-- <h2>ALL YOUR CONCRETE SOLUTION</h2> --}}
+            <marquee>
+                <h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3>
+            </marquee>
+            {{-- <h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3> --}}
+            <p>PROYEK KAMI</p>
+            {{-- <button type="button" class="btn btn-danger">Download Company Profile</button> --}}
+            <button type="button" class="btn btn-outline-danger"><a href="{{ url('/company-profile') }}"
+                    target="_blank">
+                    Download Company Profile
+                </a></button>
+            {{-- <div class="ratio ratio-16x9"> --}}
+            {{-- <iframe src="https://youtu.be/tADbJdWi3qw?si=5-MOJdJSkFIuWqU7" title="YouTube video" allowfullscreen></iframe> --}}
 
-            <!-- Section Title -->
-            <div class="container section-title" data-aos="fade-up">
-                <span class="subtitle">Proyek</span>
-                {{-- <h2>ALL YOUR CONCRETE SOLUTION</h2> --}}
-                <marquee>
-<h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3>
-</marquee>
-                {{-- <h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3> --}}
-                <p>PROYEK KAMI</p>
-                {{-- <button type="button" class="btn btn-danger">Download Company Profile</button> --}}
-                <button type="button" class="btn btn-outline-danger"><a href="{{ url('/company-profile') }}" target="_blank" >
-        Download Company Profile
-    </a></button>
-                {{-- <div class="ratio ratio-16x9"> --}}
-                    {{-- <iframe src="https://youtu.be/tADbJdWi3qw?si=5-MOJdJSkFIuWqU7" title="YouTube video" allowfullscreen></iframe> --}}
-  
-{{-- <div class="container mt-3">
+            {{-- <div class="container mt-3">
     <a href="{{ url('/company-profile') }}" target="_blank" >
         Download Company Profile
     </a>
 </div> --}}
 
-                    
-</div>
-
-            </div><!-- End Section Title -->
-            
-
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-                
-
-                <div class="row gy-5">
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/01.png" class="img-fluid" alt="Sarah Johnson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Johnson</h4>
-                                {{-- <span>Chief Executive Officer</span>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-                                egestas vestibulum tortor quam.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/02.png" class="img-fluid" alt="Michael Chen"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Michael Chen</h4>
-                                {{-- <span>Chief Technology Officer</span>
-                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
-                                eget tincidunt mauris.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-github"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/03.png" class="img-fluid" alt="Emily Rodriguez"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Emily Rodriguez</h4>
-                                {{-- <span>Creative Director</span>
-                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
-                                donec velit neque auctor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-dribbble"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/04.png" class="img-fluid" alt="David Thompson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>David Thompson</h4>
-                                {{-- <span>Head of Operations</span>
-                            <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
-                                amet massa vitae tortor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-facebook"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                </div>
-
-            </div>
-
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-                <div class="row gy-5">
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Johnson</h4>
-                                {{-- <span>Chief Executive Officer</span>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-                                egestas vestibulum tortor quam.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Michael Chen</h4>
-                                {{-- <span>Chief Technology Officer</span>
-                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
-                                eget tincidunt mauris.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-github"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Emily Rodriguez</h4>
-                                {{-- <span>Creative Director</span>
-                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
-                                donec velit neque auctor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-dribbble"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/08.png" class="img-fluid" alt="David Thompson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>One Avaneu</h4>
-                                <span>Head of Operations</span>
-                                {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
-                                amet massa vitae tortor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-facebook"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                </div>
-
-            </div>
-
-            <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-                <div class="row gy-5">
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Sarah Johnson</h4>
-                                {{-- <span>Chief Executive Officer</span>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
-                                egestas vestibulum tortor quam.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-instagram"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Michael Chen</h4>
-                                {{-- <span>Chief Technology Officer</span>
-                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
-                                eget tincidunt mauris.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-github"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>Emily Rodriguez</h4>
-                                {{-- <span>Creative Director</span>
-                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
-                                donec velit neque auctor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-dribbble"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                    <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
-                        <div class="team-member">
-                            <div class="member-img">
-                                <img src="assets/img/08.png" class="img-fluid" alt="David Thompson"
-                                    loading="lazy">
-                            </div>
-                            <div class="member-info">
-                                <h4>One Avaneu</h4>
-                                <span>Head of Operations</span>
-                                {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
-                                amet massa vitae tortor.</p> --}}
-                                <div class="social">
-                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
-                                    <a href="#"><i class="bi bi-linkedin"></i></a>
-                                    <a href="#"><i class="bi bi-facebook"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Team Member -->
-
-                </div>
-
-            </div>
-
-        </section><!-- /Team Section -->
-
-       {{-- entesting --}}
-
-
-       
-
-     <!-- Contact Section -->
-     <section id="contact" class="contact section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        {{-- <h2>Contact</h2> --}}
-        <h3 class="judul-visi">Contact</h3>
-        <P class="text-center">ALL YOUR CONCRETE SOLUTION</P>
-        <marquee>
-        <h3 class="judul-visi">Segera wujudkan proyek Anda bersama kami!
-📞 Segera hubungi nomor di bawah untuk penawaran terbaik.</h3>
-        </marquee>
-      </div><!-- End Section Title -->
-
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-4">
-
-          <div class="col-lg-5">
-
-            <div class="info-wrap">
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-geo-alt flex-shrink-0"></i>
-                <div>
-                  <h3>Address Batching Plant I :</h3>
-                  <p>Kawasan Industri Sekupang Kav, 8 Jl. Tanjung Riau Batam 29433, Tj. Riau, Kec. Sekupang, Kota Batam, Kepulauan Riau 14111</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-geo-alt flex-shrink-0"></i>
-                <div>
-                  <h3>Address Batching Plant II :</h3>
-                  <p>Jl. Pasri Putih, Teluk Tering,
-                      Batam Kota, Batam City, Riau Islands
-                  </p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-geo-alt flex-shrink-0"></i>
-                <div>
-                  <h3>Address Batching Plant III :</h3>
-                  <p>Kawasan Industri Kabil
-                  </p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-telephone flex-shrink-0"></i>
-                <div>
-                  <h3>Call Us</h3>
-                  <p>+62 811 778 7728 (Telp & Wa)</p>
-                  <p>+62 778 326 999 (Hunting)</p>
-                  <p>+62 778 321 755 and 321697</p>
-                  <p>+62 812 3408 8183 (Wa)</p>
-                  <p>+62 822 8335 5528</p>
-                  <p>+62 813 6890 467</p>
-                  <p>+62 811 6971 36</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-envelope flex-shrink-0"></i>
-                <div>
-                  <h3>Email Us</h3>
-                  <p>jutamreadymixconcrete@nongsagroup.com</p>
-                </div>
-              </div><!-- End Info Item -->
-
-              {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> --}}
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.075320548498!2d103.93018717584809!3d1.105763262309972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d98b5eb5003a1d%3A0x36b1ce40dd612507!2sPT%20.%20Jutam%20ReadyMix%20Concrete!5e0!3m2!1sid!2sid!4v1774247758828!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-          </div>
-
-          
-
-          <div class="col-lg-7">
-            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
-              <div class="row gy-4">
-
-                <div class="col-md-6">
-                  <label for="name-field" class="pb-2">Your Name</label>
-                  <input type="text" name="name" id="name-field" class="form-control" required="">
-                </div>
-
-                <div class="col-md-6">
-                  <label for="email-field" class="pb-2">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email-field" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <label for="subject-field" class="pb-2">Subject</label>
-                  <input type="text" class="form-control" name="subject" id="subject-field" required="">
-                </div>
-
-                <div class="col-md-12">
-                  <label for="message-field" class="pb-2">Message</label>
-                  <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
-                </div>
-
-                <div class="col-md-12 text-center">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">Your message has been sent. Thank you!</div>
-
-                  <button type="submit">Send Message</button>
-                </div>
-                
-
-              </div>
-            </form>
-          </div><!-- End Contact Form -->
 
         </div>
 
-      </div>
+        </div><!-- End Section Title -->
 
-       </section><!-- /Contact Section -->
 
-    </main>
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+
+            <div class="row gy-5">
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/01.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Sarah Johnson</h4>
+                            {{-- <span>Chief Executive Officer</span>
+                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                                egestas vestibulum tortor quam.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/02.png" class="img-fluid" alt="Michael Chen" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Michael Chen</h4>
+                            {{-- <span>Chief Technology Officer</span>
+                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
+                                eget tincidunt mauris.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/03.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Emily Rodriguez</h4>
+                            {{-- <span>Creative Director</span>
+                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+                                donec velit neque auctor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-dribbble"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/04.png" class="img-fluid" alt="David Thompson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>David Thompson</h4>
+                            {{-- <span>Head of Operations</span>
+                            <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
+                                amet massa vitae tortor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+            </div>
+
+        </div>
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-5">
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Sarah Johnson</h4>
+                            {{-- <span>Chief Executive Officer</span>
+                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                                egestas vestibulum tortor quam.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Michael Chen</h4>
+                            {{-- <span>Chief Technology Officer</span>
+                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
+                                eget tincidunt mauris.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Emily Rodriguez</h4>
+                            {{-- <span>Creative Director</span>
+                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+                                donec velit neque auctor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-dribbble"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/08.png" class="img-fluid" alt="David Thompson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>One Avaneu</h4>
+                            <span>Head of Operations</span>
+                            {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
+                                amet massa vitae tortor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+            </div>
+
+        </div>
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-5">
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Sarah Johnson</h4>
+                            {{-- <span>Chief Executive Officer</span>
+                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                                egestas vestibulum tortor quam.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Michael Chen</h4>
+                            {{-- <span>Chief Technology Officer</span>
+                            <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
+                                eget tincidunt mauris.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>Emily Rodriguez</h4>
+                            {{-- <span>Creative Director</span>
+                            <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
+                                donec velit neque auctor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-dribbble"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/08.png" class="img-fluid" alt="David Thompson" loading="lazy">
+                        </div>
+                        <div class="member-info">
+                            <h4>One Avaneu</h4>
+                            <span>Head of Operations</span>
+                            {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
+                                amet massa vitae tortor.</p> --}}
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+            </div>
+
+        </div>
+
+    </section><!-- /Team Section -->
+
+    {{-- entesting --}}
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Testimoni</h2>
+            <p class="text-center">Kepercayaan pelanggan adalah prioritas kami. Berikut beberapa pengalaman klien yang
+                telah menggunakan layanan readymix concrete kami.
+            </p>
+        </div><!-- End Section Title -->
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="swiper init-swiper" data-speed="600" data-delay="5000"
+                data-breakpoints="{ &quot;320&quot;: { &quot;slidesPerView&quot;: 1, &quot;spaceBetween&quot;: 40 }, &quot;1200&quot;: { &quot;slidesPerView&quot;: 3, &quot;spaceBetween&quot;: 40 } }">
+                <script type="application/json" class="swiper-config">
+            {
+              "loop": true,
+              "speed": 600,
+              "autoplay": {
+                "delay": 5000
+              },
+              "slidesPerView": "auto",
+              "pagination": {
+                "el": ".swiper-pagination",
+                "type": "bullets",
+                "clickable": true
+              },
+              "breakpoints": {
+                "320": {
+                  "slidesPerView": 1,
+                  "spaceBetween": 40
+                },
+                "1200": {
+                  "slidesPerView": 3,
+                  "spaceBetween": 20
+                }
+              }
+            }
+          </script>
+                <div class="swiper-wrapper">
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item" "="">
+            <p>
+              <i class=" bi bi-quote quote-icon-left"></i>
+                <span>Pengiriman beton dari PT Jutam Readymix Concrete sangat cepat dan tepat waktu. Kualitas beton juga bagus, pengecoran jadi lebih lancar.</span>
+                            <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimoni/006.PNG" class="testimonial-img"
+                                alt="">
+                            <h3>Andi</h3>
+                            <h4>Kontraktor Perumahan</h4>
+                            {{-- <h4>Kontraktor &amp; Perumahan</h4> --}}
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>Kami sudah beberapa kali menggunakan layanan ini, hasilnya selalu memuaskan. Tim responsif dan harga kompetitif.</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimoni/002.PNG" class="testimonial-img"
+                                alt="">
+                            <h3>Budi Santoso</h3>
+                            <h4>Developer</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>Beton sesuai mutu yang dipesan dan tidak ada kendala saat proses cor. Pelayanan sangat profesional.</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimoni/003.PNG" class="testimonial-img"
+                                alt="">
+                            <h3>Rudi Hartono</h3>
+                            <h4>Proyek Ruko</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>Armada lengkap dan pengiriman tepat waktu. Sangat membantu untuk proyek kami yang butuh beton cepat.</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimoni/004.PNG" class="testimonial-img"
+                                alt="">
+                            <h3>Hendrik</h3>
+                            <h4>Kontraktor Bangunan</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                    <div class="swiper-slide">
+                        <div class="testimonial-item">
+                            <p>
+                                <i class="bi bi-quote quote-icon-left"></i>
+                                <span>Recommended! Kualitas readymix bagus, admin fast respon, dan proses pemesanan mudah.</span>
+                                <i class="bi bi-quote quote-icon-right"></i>
+                            </p>
+                            <img src="assets/img/testimoni/005.PNG" class="testimonial-img"
+                                alt="">
+                            <h3>Dedi</h3>
+                            <h4>Pemilik Rumah</h4>
+                        </div>
+                    </div><!-- End testimonial item -->
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+        </div>
+
+    </section><!-- /Testimonials Section -->
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            {{-- <h2>Contact</h2> --}}
+            <h3 class="judul-visi">Contact</h3>
+            <P class="text-center">ALL YOUR CONCRETE SOLUTION</P>
+            <marquee>
+                <h3 class="judul-visi">Segera wujudkan proyek Anda bersama kami!
+                    📞 Segera hubungi nomor di bawah untuk penawaran terbaik.</h3>
+            </marquee>
+        </div><!-- End Section Title -->
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-4">
+
+                <div class="col-lg-5">
+
+                    <div class="info-wrap">
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-geo-alt flex-shrink-0"></i>
+                            <div>
+                                <h3>Address Batching Plant I :</h3>
+                                <p>Kawasan Industri Sekupang Kav, 8 Jl. Tanjung Riau Batam 29433, Tj. Riau, Kec.
+                                    Sekupang, Kota Batam, Kepulauan Riau 14111</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-geo-alt flex-shrink-0"></i>
+                            <div>
+                                <h3>Address Batching Plant II :</h3>
+                                <p>Jl. Pasri Putih, Teluk Tering,
+                                    Batam Kota, Batam City, Riau Islands
+                                </p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-geo-alt flex-shrink-0"></i>
+                            <div>
+                                <h3>Address Batching Plant III :</h3>
+                                <p>Kawasan Industri Kabil
+                                </p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                            <i class="bi bi-telephone flex-shrink-0"></i>
+                            <div>
+                                <h3>Call Us</h3>
+                                <p>+62 811 778 7728 (Telp & Wa)</p>
+                                <p>+62 778 326 999 (Hunting)</p>
+                                <p>+62 778 321 755 and 321697</p>
+                                <p>+62 812 3408 8183 (Wa)</p>
+                                <p>+62 822 8335 5528</p>
+                                <p>+62 813 6890 467</p>
+                                <p>+62 811 6971 36</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-envelope flex-shrink-0"></i>
+                            <div>
+                                <h3>Email Us</h3>
+                                <p>jutamreadymixconcrete@nongsagroup.com</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> --}}
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.075320548498!2d103.93018717584809!3d1.105763262309972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d98b5eb5003a1d%3A0x36b1ce40dd612507!2sPT%20.%20Jutam%20ReadyMix%20Concrete!5e0!3m2!1sid!2sid!4v1774247758828!5m2!1sid!2sid"
+                            frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen=""
+                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+
+
+
+                <div class="col-lg-7">
+                    <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+                        data-aos-delay="200">
+                        <div class="row gy-4">
+
+                            <div class="col-md-6">
+                                <label for="name-field" class="pb-2">Your Name</label>
+                                <input type="text" name="name" id="name-field" class="form-control"
+                                    required="">
+                            </div>
+
+                            <div class="col-md-6">
+                                <label for="email-field" class="pb-2">Your Email</label>
+                                <input type="email" class="form-control" name="email" id="email-field"
+                                    required="">
+                            </div>
+
+                            <div class="col-md-12">
+                                <label for="subject-field" class="pb-2">Subject</label>
+                                <input type="text" class="form-control" name="subject" id="subject-field"
+                                    required="">
+                            </div>
+
+                            <div class="col-md-12">
+                                <label for="message-field" class="pb-2">Message</label>
+                                <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
+                            </div>
+
+                            <div class="col-md-12 text-center">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                                <button type="submit">Send Message</button>
+                            </div>
+
+
+                        </div>
+                    </form>
+                </div><!-- End Contact Form -->
+
+            </div>
+
+        </div>
+
+    </section><!-- /Contact Section -->
+
+</main>
