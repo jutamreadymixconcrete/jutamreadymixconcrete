@@ -1717,6 +1717,7 @@ section,
 
 .text-justify {
     text-align: justify;
+    line-height: 1.6;
 }
 
 .section-title p {

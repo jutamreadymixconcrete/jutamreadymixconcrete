@@ -23,23 +23,25 @@
 
     </section> --}}
 
-    <section id="home" class="hero section dark-background">
+    <section id="beranda" class="hero section dark-background">
 
         <img src="assets/img/01.jpeg" alt="" data-aos="fade-in">
 
         <div class="container text-center" data-aos="fade-up" data-aos-delay="100">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
-                    <h2>Welcome to Our</h2>
-                    <h2 class="animate-text">PT. JUTAM READYMIX CONCRETE</h2>
 
+                    <h2><b>Welcome to Our</b></h2>
+
+                    <h2 class="animate-text"><b>PT. JUTAM READYMIX CONCRETE</b></h2>
+                    <h6 class="animate-text"><b>ALL YOUR CONCRETE SOLUTIONS</b></h6>
                     <p>Sebagai penyedia beton/tiang pancang/piling terpercaya,
                         <b>PT. JUTAM READYMIX CONCRETE</b>
                         berkontribusi pada pertumbuhan perumahan, hotel, apartemen,
                         rumah sakit, infrastruktur, dan berbagai proyek konstruksi di Batam.
                     </p>
 
-                    <a href="#about" class="btn-get-started">Get Started</a>
+                    <a href="#tentangkami" class="btn-get-started">Get Started</a>
                 </div>
             </div>
         </div>
@@ -71,12 +73,12 @@
     <!-- /Hero Section -->
 
     <!-- About Section -->
-    <section id="about" class="about section">
+    <section id="tentangkami" class="about section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>About</h2> --}}
-            <h3 class="judul-visi">About</h3>
+            <h3 class="judul-visi">Tentang Kami</h3>
             <p><b>PT. Jutam Readymix Concrete</b> adalah perusahaan yang memproduksi dan mengsuply, beton
                 jadi/readymix dan
                 tiang pancang/piling yang berkualitas unggul dan berstandar Nasional.
@@ -163,7 +165,7 @@
     </section><!-- /About Section -->
 
     <!-- About Section -->
-    <section id="about" class="about section">
+    <section id="tentangkami" class="about section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
@@ -324,35 +326,34 @@
                     <ul class="nav nav-tabs" data-aos="fade-up" data-aos-delay="100">
                         <li class="nav-item">
                             <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tabs-tab-1">
-                                <i class="bi bi-binoculars"></i>
+                                <i class="bi bi-geo-alt-fill"></i>
                                 <div>
-                                    <h4 class="d-none d-lg-block">Modi sit est dela pireda nest</h4>
-                                    <p>
-                                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                                        dolor in reprehenderit in voluptate
-                                        velit esse cillum dolore eu fugiat nulla pariatur
+                                    <h4 class="d-none d-lg-block">BATCHING PLANT SEKUPANG</h4>
+                                    <p class="text-justify">
+                                        Kawasan Industri Sekupang Kav, 8 Jl. Tanjung Riau Batam, Tj. Riau, Kec.
+                                        Sekupang,KotaBatam, Kepulauan Riau Indonesia, Kode Pos 29433
                                     </p>
                                 </div>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tabs-tab-2">
-                                <i class="bi bi-box-seam"></i>
+                                <i class="bi bi-geo-alt-fill"></i>
                                 <div>
-                                    <h4 class="d-none d-lg-block">Unde praesenti mara setra le</h4>
+                                    <h4 class="d-none d-lg-block">BATCHING PLANT PASIR PUTIH</h4>
                                     <p>
-                                        Recusandae atque nihil. Delectus vitae non similique magnam molestiae
-                                        sapiente similique
-                                        tenetur aut voluptates sed voluptas ipsum voluptas
+                                        Jl. Pasri Putih, Teluk Tering,
+                                        Batam Kota, Batam City, Riau Islands
+
                                     </p>
                                 </div>
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tabs-tab-3">
-                                <i class="bi bi-brightness-high"></i>
+                                <i class="bi bi-geo-alt-fill"></i>
                                 <div>
-                                    <h4 class="d-none d-lg-block">Pariatur explica nitro dela</h4>
+                                    <h4 class="d-none d-lg-block">BATCHING PLANT KABIL</h4>
                                     <p>
                                         Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
                                         deserunt mollit anim id est laborum
@@ -391,12 +392,12 @@
     </section><!-- /Tabs Section -->
 
     <!-- Services Section -->
-    <section id="services" class="services section">
+    <section id="layanan" class="services section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Services</h2> --}}
-            <h3 class="judul-visi">Services</h3>
+            <h3 class="judul-visi">Layanan</h3>
             <p class="text-center">Kami berkomitmen memberikan layanan readymix concrete berkualitas yang handal, tepat
                 waktu, dan sesuai
                 kebutuhan proyek Anda.</p>
@@ -408,7 +409,7 @@
                 <!-- Supply Readymix -->
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="service-item item-cyan position-relative">
-                        <i class="bi bi-truck icon"></i>
+                        <i class="bi bi-graph-up-arrow icon"></i>
                         <div>
                             <h3>Supply Readymix Concrete</h3>
                             <p>Menyediakan beton ready mix berbagai mutu untuk kebutuhan proyek rumah, ruko, gedung, dan
@@ -634,12 +635,12 @@
       </section><!-- /Portfolio Section --> --}}
 
     <!-- Team Section -->
-    <section id="projectkami" class="team section">
+    <section id="proyek" class="team section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Project Kami</h2> --}}
-            <h3 class="judul-visi">Project Kami</h3>
+            <h3 class="judul-visi">Proyek Kami</h3>
             <p class="text-center" style="color: black;">
                 Dokumentasi proyek sebagai bukti pengalaman dan dedikasi kami di bidang konstruksi.
             </p>
@@ -2546,13 +2547,13 @@
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
-            <span class="subtitle">Proyek</span>
+            {{-- <span class="subtitle">Proyek</span> --}}
             {{-- <h2>ALL YOUR CONCRETE SOLUTION</h2> --}}
             <marquee>
                 <h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3>
             </marquee>
             {{-- <h3 class="judul-visi">ALL YOUR CONCRETE SOLUTION</h3> --}}
-            <p>PROYEK KAMI</p>
+            {{-- <p>PROYEK KAMI</p> --}}
             {{-- <button type="button" class="btn btn-danger">Download Company Profile</button> --}}
             <button type="button" class="btn btn-outline-danger"><a href="{{ url('/company-profile') }}"
                     target="_blank">
@@ -2584,15 +2585,15 @@
                             <img src="assets/img/01.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Sarah Johnson</h4>
+                            <h6 class="text-center"><b>Parajo Garden</b></h6>
                             {{-- <span>Chief Executive Officer</span>
                             <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
                                 egestas vestibulum tortor quam.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2603,15 +2604,15 @@
                             <img src="assets/img/02.png" class="img-fluid" alt="Michael Chen" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Michael Chen</h4>
+                            <h6 class="text-center"><b>The Mix Pasir Putih</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-github"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2622,15 +2623,15 @@
                             <img src="assets/img/03.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Emily Rodriguez</h4>
+                            <h6 class="text-center"><b>Nagoya Hill</b></h6>
                             {{-- <span>Creative Director</span>
                             <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
                                 donec velit neque auctor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-dribbble"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2641,15 +2642,15 @@
                             <img src="assets/img/04.png" class="img-fluid" alt="David Thompson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>David Thompson</h4>
+                            <h6 class="text-center"><b>Nagoya Hill</b></h6>
                             {{-- <span>Head of Operations</span>
                             <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2668,15 +2669,15 @@
                             <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Sarah Johnson</h4>
+                            <h6 class="text-center"><b>Jembatan 2 Barelang Dock Kapal</b></h6>
                             {{-- <span>Chief Executive Officer</span>
                             <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
                                 egestas vestibulum tortor quam.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2687,15 +2688,15 @@
                             <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Michael Chen</h4>
+                            <h6 class="text-center"><b>Data Center Nongsa</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-github"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2706,15 +2707,15 @@
                             <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Emily Rodriguez</h4>
+                            <h6 class="text-center"><b>Gedung Baloi</b></h6>
                             {{-- <span>Creative Director</span>
                             <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
                                 donec velit neque auctor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-dribbble"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2725,15 +2726,15 @@
                             <img src="assets/img/08.png" class="img-fluid" alt="David Thompson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>One Avaneu</h4>
-                            <span>Head of Operations</span>
+                            <h6 class="text-center"><b>One Avaneu</b></h6>
+                            {{-- <span>Head of Operations</span> --}}
                             {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2749,18 +2750,19 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="assets/img/05.png" class="img-fluid" alt="Sarah Johnson" loading="lazy">
+                            <img src="assets/img/Data Centre Nongsa.jpg" class="img-fluid" alt="Sarah Johnson"
+                                loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Sarah Johnson</h4>
+                            <h6 class="text-center"><b>Data Center Nongsa</b></h6>
                             {{-- <span>Chief Executive Officer</span>
                             <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
                                 egestas vestibulum tortor quam.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-instagram"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2768,18 +2770,19 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="250">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen" loading="lazy">
+                            <img src="assets/img/1709779876587.jpg" class="img-fluid" alt="Michael Chen"
+                                loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Michael Chen</h4>
+                            <h6 class="text-center"><b>Golden Pront</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-github"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2787,18 +2790,19 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
+                            <img src="assets/img/hasil2.png" class="img-fluid" alt="Emily Rodriguez"
+                                loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>Emily Rodriguez</h4>
+                            <h6 class="text-center"><b>Pembangkit Tenaga Suraya Kabil</b></h6>
                             {{-- <span>Creative Director</span>
                             <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
                                 donec velit neque auctor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-dribbble"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2806,18 +2810,19 @@
                 <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="350">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="assets/img/08.png" class="img-fluid" alt="David Thompson" loading="lazy">
+                            <img src="assets/img/20220531_162145.jpg" class="img-fluid" alt="David Thompson"
+                                loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h4>One Avaneu</h4>
-                            <span>Head of Operations</span>
+                            <h6 class="text-center"><b>One Avaneu</b></h6>
+                            {{-- <span>Head of Operations</span> --}}
                             {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
-                            <div class="social">
+                            {{-- <div class="social">
                                 <a href="#"><i class="bi bi-twitter-x"></i></a>
                                 <a href="#"><i class="bi bi-linkedin"></i></a>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div><!-- End Team Member -->
@@ -2953,13 +2958,13 @@
 
 
     <!-- Contact Section -->
-    <section id="contact" class="contact section">
+    <section id="kontak" class="contact section">
 
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Contact</h2> --}}
-            <h3 class="judul-visi">Contact</h3>
-            <P class="text-center">ALL YOUR CONCRETE SOLUTION</P>
+            <h3 class="judul-visi">Kontak</h3>
+            <P class="text-center"><b>ALL YOUR CONCRETE SOLUTION</b></P>
             <marquee>
                 <h3 class="judul-visi">Segera wujudkan proyek Anda bersama kami!
                     📞 Segera hubungi nomor di bawah untuk penawaran terbaik.</h3>

@@ -73,11 +73,11 @@
             <div class="col-lg-2 col-md-3 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                    <li><a href="#home"><i class="bi bi-chevron-right"></i> Home</a></li>
-                    <li><a href="#about"><i class="bi bi-chevron-right"></i> About us</a></li>
-                    <li><a href="#services"><i class="bi bi-chevron-right"></i> Services</a></li>
-                    <li><a href="#projectkami"><i class="bi bi-chevron-right"></i> Project Kami</a></li>
-                    <li><a href="#privacy"><i class="bi bi-chevron-right"></i> Privacy policy</a></li>
+                    <li><a href="#beranda"><i class="bi bi-chevron-right"></i> Beranda</a></li>
+                    <li><a href="#tentangkami"><i class="bi bi-chevron-right"></i> Tentang Kami</a></li>
+                    <li><a href="#layanan"><i class="bi bi-chevron-right"></i> Layanan</a></li>
+                    <li><a href="#proyek"><i class="bi bi-chevron-right"></i> Proyek</a></li>
+                    <li><a href="#kontak"><i class="bi bi-chevron-right"></i> Kontak</a></li>
                 </ul>
             </div>
 
