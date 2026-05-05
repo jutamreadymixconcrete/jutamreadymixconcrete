@@ -3,7 +3,7 @@
 
         <a href="index.html" class="logo d-flex align-items-center">
             {{-- Uncomment the line below if you also wish to use an image logo  --}}
-            <img src="assets/img/logojutam.png" alt="">
+            <img src="assets/img/png jutam new.png" alt="">
             <h1 class="sitename">Jutam Readymix Concrete</h1>
         </a>
 
@@ -11,7 +11,7 @@
             <ul>
                 <li><a href="#beranda" class="active">Beranda</a></li>
                 <li><a href="#tentangkami">Tentang Kami</a></li>
-                <li><a href="#layanan">Layanan</a></li>
+                <li><a href="#layanan">Layanan Kami</a></li>
                 {{-- <li><a href="#portfolio">Portfolio</a></li> --}}
                 <li><a href="#proyek">Proyek</a></li>
                 <li class="dropdown"><a href="#"><span>Operations</span> <i

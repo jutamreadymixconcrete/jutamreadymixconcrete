@@ -355,9 +355,8 @@
                                 <div>
                                     <h4 class="d-none d-lg-block">BATCHING PLANT KABIL</h4>
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                                        deserunt mollit anim id est laborum
-                                        Debitis nulla est maxime voluptas dolor aut
+                                        Jl. Pasri Putih, Teluk Tering,
+                                        Batam Kota, Batam City, Riau Islands
                                     </p>
                                 </div>
                             </a>
@@ -371,15 +370,15 @@
                     <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
 
                         <div class="tab-pane fade active show" id="tabs-tab-1">
-                            <img src="assets/img/02 (2).jpeg" alt="" class="img-fluid">
+                            <img src="assets/img/batching-plant-sekupang.png" alt="" class="img-fluid">
                         </div><!-- End Tab Content Item -->
 
                         <div class="tab-pane fade" id="tabs-tab-2">
-                            <img src="assets/img/02 (3).jpeg" alt="" class="img-fluid">
+                            <img src="assets/img/batching-plant-pasirputih.png" alt="" class="img-fluid">
                         </div><!-- End Tab Content Item -->
 
                         <div class="tab-pane fade" id="tabs-tab-3">
-                            <img src="assets/img/02 (4).jpeg" alt="" class="img-fluid">
+                            <img src="assets/img/baching plant kabil1.png" alt="" class="img-fluid">
                         </div><!-- End Tab Content Item -->
                     </div>
 
@@ -397,7 +396,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Services</h2> --}}
-            <h3 class="judul-visi">Layanan</h3>
+            <h3 class="judul-visi">Layanan Kami</h3>
             <p class="text-center">Kami berkomitmen memberikan layanan readymix concrete berkualitas yang handal, tepat
                 waktu, dan sesuai
                 kebutuhan proyek Anda.</p>
@@ -1443,8 +1442,8 @@
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Peralatan Pengaduk</h2> --}}
             <h3 class="judul-visi">Peralatan Pengaduk</h3>
-            <p class="text-center" style="color: black;">"Peralatan pengaduk kami memastikan campuran beton merata,
-                kuat, dan siap menunjang keberhasilan konstruksi Anda."</p>
+            <p class="text-center" style="color: black;">Peralatan pengaduk kami memastikan campuran beton merata,
+                kuat, dan siap menunjang keberhasilan konstruksi Anda.</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -1550,6 +1549,30 @@
 
             <div class="row gy-4">
 
+
+                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
+                    <div class="member">
+                        <img src="assets/img/peralatan-pengaduk/baching plant kabil1.png" class="img-fluid rounded-3"
+                            alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>BATCHING PLANT KABIL</h4>
+                                <a href="assets/img/peralatan-pengaduk/baching plant kabil1.png"
+                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
+                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                {{-- <span>Accountant</span> --}}
+                            </div>
+                            {{-- <div class="social">
+                        <a href=""><i class="bi bi-twitter-x"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        </div> --}}
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+
                 <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
                         <img src="assets/img/peralatan-pengaduk/concrete-pump.png" class="img-fluid rounded-3"
@@ -1616,27 +1639,7 @@
                     </div>
                 </div><!-- End Team Member -->
 
-                <div class="col-xl-3 col-lg-4 col-md-6 my-4" data-aos="fade-up" data-aos-delay="400">
-                    <div class="member">
-                        <img src="assets/img/project-kami/palladium residence.png" class="img-fluid rounded-3"
-                            alt="">
-                        <div class="member-info">
-                            <div class="member-info-content">
-                                <h4>PALLADIUM RESIDENCE</h4>
-                                <a href="assets/img/project-kami/palladium residence.png"
-                                    data-gallery="portfolio-gallery-HOLIDAY-MELIA PANORAMA"
-                                    class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                                {{-- <span>Accountant</span> --}}
-                            </div>
-                            {{-- <div class="social">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div> --}}
-                        </div>
-                    </div>
-                </div><!-- End Team Member -->
+
 
             </div>
 
@@ -1660,9 +1663,9 @@
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Peralatan Laboratorium</h2> --}}
             <h3 class="judul-visi">Peralatan Laboratorium</h3>
-            <p class="text-center" style="color: black;">"Laboratorium kami dilengkapi alat uji mutu beton guna
+            <p class="text-center" style="color: black;">Laboratorium kami dilengkapi alat uji mutu beton guna
                 memastikan setiap produksi memenuhi standar
-                konstruksi dan menjaga kekuatan dan ketahanan beton."</p>
+                konstruksi dan menjaga kekuatan dan ketahanan beton.</p>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -1880,8 +1883,8 @@
         <div class="container section-title" data-aos="fade-up">
             {{-- <h2>Peralatan Laboratorium</h2> --}}
             <h3 class="judul-visi">Produk</h3>
-            <p class="text-center" style="color: black;">"Beragam pilihan produk readymix concrete dengan kualitas
-                terbaik untuk berbagai jenis proyek."
+            <p class="text-center" style="color: black;">Beragam pilihan produk readymix concrete dengan kualitas
+                terbaik untuk berbagai jenis proyek.
             </p>
         </div><!-- End Section Title -->
 
@@ -2604,7 +2607,7 @@
                             <img src="assets/img/02.png" class="img-fluid" alt="Michael Chen" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>The Mix Pasir Putih</b></h6>
+                            <h6 class="text-center"><b>Tera Vista Batam Centre</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
@@ -2642,7 +2645,7 @@
                             <img src="assets/img/04.png" class="img-fluid" alt="David Thompson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>Nagoya Hill</b></h6>
+                            <h6 class="text-center"><b>The Mix Pasir Putih</b></h6>
                             {{-- <span>Head of Operations</span>
                             <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
@@ -2688,7 +2691,7 @@
                             <img src="assets/img/06.png" class="img-fluid" alt="Michael Chen" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>Data Center Nongsa</b></h6>
+                            <h6 class="text-center"><b>ONYX PLAZA</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
@@ -2707,7 +2710,7 @@
                             <img src="assets/img/07.png" class="img-fluid" alt="Emily Rodriguez" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>Gedung Baloi</b></h6>
+                            <h6 class="text-center"><b>RS awal bros simapngjam</b></h6>
                             {{-- <span>Creative Director</span>
                             <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae
                                 donec velit neque auctor.</p> --}}
@@ -2726,7 +2729,7 @@
                             <img src="assets/img/08.png" class="img-fluid" alt="David Thompson" loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>One Avaneu</b></h6>
+                            <h6 class="text-center"><b>Gedung BKKBN Sekupang</b></h6>
                             {{-- <span>Head of Operations</span> --}}
                             {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
@@ -2774,7 +2777,7 @@
                                 loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>Golden Pront</b></h6>
+                            <h6 class="text-center"><b>PLTMG BALOI</b></h6>
                             {{-- <span>Chief Technology Officer</span>
                             <p>Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum tellus ac blandit elit
                                 eget tincidunt mauris.</p> --}}
@@ -2814,7 +2817,7 @@
                                 loading="lazy">
                         </div>
                         <div class="member-info">
-                            <h6 class="text-center"><b>One Avaneu</b></h6>
+                            <h6 class="text-center"><b>Caterpilar Tanjung Uncang</b></h6>
                             {{-- <span>Head of Operations</span> --}}
                             {{-- <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem nulla facilisi mauris sit
                                 amet massa vitae tortor.</p> --}}
@@ -2981,7 +2984,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant I :</h3>
+                                <h3>Address Batching Plant Sekupang :</h3>
                                 <p>Kawasan Industri Sekupang Kav, 8 Jl. Tanjung Riau Batam 29433, Tj. Riau, Kec.
                                     Sekupang, Kota Batam, Kepulauan Riau 14111</p>
                             </div>
@@ -2990,7 +2993,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant II :</h3>
+                                <h3>Address Batching Plant Pasir Putih :</h3>
                                 <p>Jl. Pasri Putih, Teluk Tering,
                                     Batam Kota, Batam City, Riau Islands
                                 </p>
@@ -3000,7 +3003,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant III :</h3>
+                                <h3>Address Batching Plant Kabil :</h3>
                                 <p>Kawasan Industri Kabil
                                 </p>
                             </div>
@@ -3013,7 +3016,7 @@
                                 <p>+62 811 778 7728 (Telp & Wa)</p>
                                 <p>+62 778 326 999 (Hunting)</p>
                                 <p>+62 778 321 755 and 321697</p>
-                                <p>+62 812 3408 8183 (Wa)</p>
+                                {{-- <p>+62 812 3408 8183 (Wa)</p> --}}
                                 <p>+62 822 8335 5528</p>
                                 <p>+62 813 6890 467</p>
                                 <p>+62 811 6971 36</p>
