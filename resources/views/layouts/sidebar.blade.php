@@ -2984,7 +2984,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant Sekupang :</h3>
+                                <h3>Alamat Batching Plant Sekupang :</h3>
                                 <p>Kawasan Industri Sekupang Kav, 8 Jl. Tanjung Riau Batam 29433, Tj. Riau, Kec.
                                     Sekupang, Kota Batam, Kepulauan Riau 14111</p>
                             </div>
@@ -2993,7 +2993,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant Pasir Putih :</h3>
+                                <h3>Alamat Batching Plant Pasir Putih :</h3>
                                 <p>Jl. Pasri Putih, Teluk Tering,
                                     Batam Kota, Batam City, Riau Islands
                                 </p>
@@ -3003,7 +3003,7 @@
                         <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
                             <i class="bi bi-geo-alt flex-shrink-0"></i>
                             <div>
-                                <h3>Address Batching Plant Kabil :</h3>
+                                <h3>Alamat Batching Plant Kabil :</h3>
                                 <p>Kawasan Industri Kabil
                                 </p>
                             </div>

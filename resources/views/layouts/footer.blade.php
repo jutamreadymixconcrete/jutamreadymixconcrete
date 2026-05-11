@@ -71,7 +71,8 @@
             </div> --}}
 
             <div class="col-lg-2 col-md-3 footer-links">
-                <h4>Useful Links</h4>
+                {{-- <h4>Useful Links</h4> --}}
+                <h4>Tautan Berguna</h4>
                 <ul>
                     <li><a href="#beranda"><i class="bi bi-chevron-right"></i> Beranda</a></li>
                     <li><a href="#tentangkami"><i class="bi bi-chevron-right"></i> Tentang Kami</a></li>
