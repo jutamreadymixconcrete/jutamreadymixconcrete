@@ -4,7 +4,7 @@
         <div class="row gy-4">
             <div class="col-lg-4 col-md-6 footer-about">
                 <a href="index.html" class="logo d-flex align-items-center">
-                    <span class="sitename">Jutam Readymix Concrete</span>
+                    <span class="sitename">PT. Jutam Readymix Concrete</span>
                 </a>
                 <div class="footer-contact pt-3">
                     <h4>Head Office</h4>
@@ -17,7 +17,7 @@
                     <p>+62 778 321 755 and 321697</p>
                     <p>+62 812 3408 8183 (Wa)</p>
                     <p>+62 822 8335 5528</p>
-                    <p>+62 813 6890 467</p>
+                    {{-- <p>+62 813 6890 467</p> --}}
                     <p>+62 811 6971 36</p>
                     <p><strong>Email:</strong> <span>jutamreadymixconcrete@nongsagroup.com</span></p>
                 </div>
@@ -109,8 +109,10 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright 2026</span> <strong class="px-1 sitename">PT. Jutam Readymix Concrete</strong>| <span>All
-                Rights Reserved</span></p>
+        <p>© <span>Copyright 1990 - 2026</span> <strong class="px-1 sitename">PT. Jutam Readymix Concrete</strong>|
+            <span>All
+                Rights Reserved</span>
+        </p>
         {{-- <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you've purchased the pro version. -->

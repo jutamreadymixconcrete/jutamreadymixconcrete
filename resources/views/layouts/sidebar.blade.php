@@ -937,9 +937,6 @@
                 </div><!-- End Team Member -->
 
             </div>
-
-
-
         </div>
 
         <div class="container ">
@@ -2970,7 +2967,7 @@
             <P class="text-center"><b>ALL YOUR CONCRETE SOLUTION</b></P>
             <marquee>
                 <h3 class="judul-visi">Segera wujudkan proyek Anda bersama kami!
-                    📞 Segera hubungi nomor di bawah untuk penawaran terbaik.</h3>
+                    📞 Segera hubungi nomor di bawah untuk penawaran terbaik anda.</h3>
             </marquee>
         </div><!-- End Section Title -->
 
@@ -3018,7 +3015,7 @@
                                 <p>+62 778 321 755 and 321697</p>
                                 {{-- <p>+62 812 3408 8183 (Wa)</p> --}}
                                 <p>+62 822 8335 5528</p>
-                                <p>+62 813 6890 467</p>
+                                {{-- <p>+62 813 6890 467</p> --}}
                                 <p>+62 811 6971 36</p>
                             </div>
                         </div><!-- End Info Item -->
@@ -3039,7 +3036,7 @@
                     </div>
                 </div>
 
-
+                
 
                 <div class="col-lg-7">
                     <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
